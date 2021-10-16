@@ -5,7 +5,7 @@
 		}
 	],
 	"settings": {
-		"workbench.colorTheme": "GitHub Dark Default",
+		"workbench.colorTheme": "monokai-charcoal (red)",
 		"editor.fontSize": 14,
 		"files.associations": {
 			"iostream": "cpp",
@@ -52,7 +52,37 @@
 			"stdexcept": "cpp",
 			"streambuf": "cpp",
 			"typeinfo": "cpp",
-			"list": "cpp"
+			"list": "cpp",
+			"map": "cpp",
+			"any": "cpp",
+			"bitset": "cpp",
+			"cfenv": "cpp",
+			"charconv": "cpp",
+			"chrono": "cpp",
+			"cinttypes": "cpp",
+			"codecvt": "cpp",
+			"complex": "cpp",
+			"condition_variable": "cpp",
+			"csetjmp": "cpp",
+			"csignal": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cuchar": "cpp",
+			"forward_list": "cpp",
+			"set": "cpp",
+			"unordered_set": "cpp",
+			"ratio": "cpp",
+			"regex": "cpp",
+			"future": "cpp",
+			"iomanip": "cpp",
+			"mutex": "cpp",
+			"scoped_allocator": "cpp",
+			"shared_mutex": "cpp",
+			"thread": "cpp",
+			"typeindex": "cpp",
+			"valarray": "cpp",
+			"variant": "cpp",
+			"hash_table_dynamic_generic.h": "c"
 		},
 	}
 }
